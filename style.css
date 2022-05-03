@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap'); 
+html, body {
+  font-family: 'PT Serif', serif;
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #5d34f4;
+  
+}
+p{
+  color:white;
+font-size: 24px
+width:50px;
+
+}
+p{
+color: white;
+  
+}
